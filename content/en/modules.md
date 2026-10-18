@@ -1,4 +1,9 @@
-# Modules
+---
+title: "Modules"
+weight: 20
+---
+
+# Modules {#modules}
 
 The 3 modules of **go-mswin**. Each links to its source and to
 its generated API reference.
